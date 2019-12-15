@@ -16,6 +16,7 @@ namespace ProductManagement.Controllers
         public HomeController(ILogger<HomeController> logger)
         {
             _logger = logger;
+            ////sdfsdf
         }
 
         public IActionResult Index()
